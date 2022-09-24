@@ -1,6 +1,7 @@
 <script>
   import devLogo from './assets/dev-logo.svg'
   import Counter from './lib/Counter.svelte'
+  import Navbar from './lib/Navbar.svelte';
 </script>
 
 <main>
@@ -9,10 +10,11 @@
       <img src={devLogo} class="logo dev" alt="Svelte Logo" />
     </a>
   </div>
-  <h1>Dom </h1>
+  <h1>Dominic Harrington</h1>
 
   <div class="card">
     <Counter />
+    <Navbar />
   </div>
 </main>
 
