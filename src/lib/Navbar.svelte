@@ -32,6 +32,6 @@
         transition: 400ms all;
     }
     .nav_item:hover {
-        color: black;
+        color: blue;
     }
 </style>
