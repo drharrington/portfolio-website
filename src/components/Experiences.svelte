@@ -1,20 +1,12 @@
 <script>
   const exps = [
     {
-      title: "Shark Gang Lead",
-      duration: "Jan 2022 - Present",
+      title: "Association for Computing Machinery",
+      duration: "Jul 2022 - Present",
     },
     {
-      title: "Vegan Shark",
-      duration: "Jan 2021 - Jan 2022",
-    },
-    {
-      title: "Junior Shark",
-      duration: "Jan 2020 - Jan 2021",
-    },
-    {
-      title: "Baby Shark",
-      duration: "Jan 2019 - Jan 2020",
+      title: "LBX Immersive LLC Intern",
+      duration: "Feb 2021 - May 2021",
     },
   ];
 </script>
@@ -41,7 +33,7 @@
     font-weight: 780;
   }
   .container__exp {
-    background-color: #2C91C6;
+    background-color: #0F3F8C;
     border-radius: 2rem;
     margin: 1rem;
   }

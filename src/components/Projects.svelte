@@ -2,13 +2,13 @@
   const projects = [
     {
       title: "Portfolio Website",
-      description: "Developed this website",
+      description: "Developed this website with the help of ACM CSUF",
       url: "https://github.com/drharrington/portfolio-website",
     },
     {
-      title: "Placeholder",
-      description: "Did this thing",
-      url: "https://github.com/drharrington/portfolio-website",
+      title: "Tuffle Backend",
+      description: "Programmed the backend code to a fully functioning Wordle-like browser game (Currently private repository)",
+      url: "https://github.com/drharrington",
     },
   ];
 </script>

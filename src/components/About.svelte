@@ -1,13 +1,13 @@
 <script>
   export let name;
-  import frank from "../assets/frank.svg";
+  import dom from "../assets/pointing-dom.png";
 </script>
   
 <section>
   <div class="container__about" id="About">
-    <img width={180} height={123} src={frank} alt="" />
-    <p class="header--small">Hi, I'm {name}</p>
-    <p class="header--big">Welcome to my portfolio!</p>
+    <img width={180} height={180} src={dom} alt="" />
+    <p class="header--small">Ahoy there! I'm {name}</p>
+    <p class="header--big">WELCOME TO MY PORTFOLIO</p>
   </div>
 </section>
   
