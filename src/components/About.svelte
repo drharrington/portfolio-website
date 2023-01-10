@@ -1,11 +1,11 @@
 <script>
   export let name;
-  import devlogo from "../assets/dev-logo.svg";
+  import frank from "../assets/frank.svg";
 </script>
   
 <section>
   <div class="container__about" id="About">
-    <img width={180} height={123} src={devlogo} alt="" />
+    <img width={180} height={123} src={frank} alt="" />
     <p class="header--small">Hi, I'm {name}</p>
     <p class="header--big">Welcome to my portfolio!</p>
   </div>
